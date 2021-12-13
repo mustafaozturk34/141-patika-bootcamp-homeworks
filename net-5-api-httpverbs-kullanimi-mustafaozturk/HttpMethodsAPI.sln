@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpMethodsAPI", "HttpMethodsAPI\HttpMethodsAPI.csproj", "{BDB4BAA3-BF6F-4AB9-B0B5-DB59B5BD64F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{5BA3FE23-B462-42CF-9AD3-DF2930F8061B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB4BAA3-BF6F-4AB9-B0B5-DB59B5BD64F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB4BAA3-BF6F-4AB9-B0B5-DB59B5BD64F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB4BAA3-BF6F-4AB9-B0B5-DB59B5BD64F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB4BAA3-BF6F-4AB9-B0B5-DB59B5BD64F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA3FE23-B462-42CF-9AD3-DF2930F8061B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA3FE23-B462-42CF-9AD3-DF2930F8061B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA3FE23-B462-42CF-9AD3-DF2930F8061B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA3FE23-B462-42CF-9AD3-DF2930F8061B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68376F9F-9D08-4353-9186-B5D1A37BA4CF}
+	EndGlobalSection
+EndGlobal

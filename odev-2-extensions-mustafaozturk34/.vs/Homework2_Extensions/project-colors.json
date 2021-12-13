@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71a86bab-eed8-4d6b-af9e-08ae14d8970e": {
+      "ProjectGuid": "71a86bab-eed8-4d6b-af9e-08ae14d8970e",
+      "DisplayName": "Homework2_Extensions",
+      "ColorIndex": 0
+    },
+    "3f0adee2-3445-4192-aac7-05f1328ed5a8": {
+      "ProjectGuid": "3f0adee2-3445-4192-aac7-05f1328ed5a8",
+      "DisplayName": "Extensions",
+      "ColorIndex": 1
+    },
+    "77c51e23-51f7-40b4-bc86-642d815758c4": {
+      "ProjectGuid": "77c51e23-51f7-40b4-bc86-642d815758c4",
+      "DisplayName": "Homework2_Extensions_WebApp",
+      "ColorIndex": 2
+    },
+    "6a8b84c8-b0ae-4638-b59e-52b8ccdeb179": {
+      "ProjectGuid": "6a8b84c8-b0ae-4638-b59e-52b8ccdeb179",
+      "DisplayName": "IUser",
+      "ColorIndex": 3
+    },
+    "4dcb01d8-98f8-4842-92b4-253ee37d77e5": {
+      "ProjectGuid": "4dcb01d8-98f8-4842-92b4-253ee37d77e5",
+      "DisplayName": "Model",
+      "ColorIndex": 4
+    },
+    "04ce752c-4223-4f94-b56f-bddc976aecbe": {
+      "ProjectGuid": "04ce752c-4223-4f94-b56f-bddc976aecbe",
+      "DisplayName": "Model",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

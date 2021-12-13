@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8aacddac-7e0a-45ab-ab2d-aefd667cffea": {
+      "ProjectGuid": "8aacddac-7e0a-45ab-ab2d-aefd667cffea",
+      "DisplayName": "RealEstate.APi",
+      "ColorIndex": 0
+    },
+    "2caa3a7a-2e7b-4511-85ea-656bce487cbd": {
+      "ProjectGuid": "2caa3a7a-2e7b-4511-85ea-656bce487cbd",
+      "DisplayName": "RealEstate.Model",
+      "ColorIndex": 1
+    },
+    "4a8d7dbd-d088-4f2a-9cfa-6d3154960c61": {
+      "ProjectGuid": "4a8d7dbd-d088-4f2a-9cfa-6d3154960c61",
+      "DisplayName": "RealEstate.DB",
+      "ColorIndex": 2
+    },
+    "117b0f50-63a5-4ccc-939d-c88e4ed64fdd": {
+      "ProjectGuid": "117b0f50-63a5-4ccc-939d-c88e4ed64fdd",
+      "DisplayName": "RealEstate.Service",
+      "ColorIndex": 3
+    },
+    "44ad73a1-2095-4179-a7ef-c3c39d00bf38": {
+      "ProjectGuid": "44ad73a1-2095-4179-a7ef-c3c39d00bf38",
+      "DisplayName": "ReaLEstate.Extension",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

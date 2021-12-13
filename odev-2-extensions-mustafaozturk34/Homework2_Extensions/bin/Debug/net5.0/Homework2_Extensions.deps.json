@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Homework2_Extensions/1.0.0": {
+        "dependencies": {
+          "Extensions": "1.0.0"
+        },
+        "runtime": {
+          "Homework2_Extensions.dll": {}
+        }
+      },
+      "Extensions/1.0.0": {
+        "runtime": {
+          "Extensions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework2_Extensions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Extensions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
