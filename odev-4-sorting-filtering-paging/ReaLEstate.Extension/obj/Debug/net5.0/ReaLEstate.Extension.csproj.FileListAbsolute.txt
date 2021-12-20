@@ -1,0 +1,11 @@
+C:\Users\1998m\Desktop\real-estate\ReaLEstate.Extension\bin\Debug\net5.0\ReaLEstate.Extension.deps.json
+C:\Users\1998m\Desktop\real-estate\ReaLEstate.Extension\bin\Debug\net5.0\ReaLEstate.Extension.dll
+C:\Users\1998m\Desktop\real-estate\ReaLEstate.Extension\bin\Debug\net5.0\ref\ReaLEstate.Extension.dll
+C:\Users\1998m\Desktop\real-estate\ReaLEstate.Extension\bin\Debug\net5.0\ReaLEstate.Extension.pdb
+C:\Users\1998m\Desktop\real-estate\ReaLEstate.Extension\obj\Debug\net5.0\ReaLEstate.Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1998m\Desktop\real-estate\ReaLEstate.Extension\obj\Debug\net5.0\ReaLEstate.Extension.AssemblyInfoInputs.cache
+C:\Users\1998m\Desktop\real-estate\ReaLEstate.Extension\obj\Debug\net5.0\ReaLEstate.Extension.AssemblyInfo.cs
+C:\Users\1998m\Desktop\real-estate\ReaLEstate.Extension\obj\Debug\net5.0\ReaLEstate.Extension.csproj.CoreCompileInputs.cache
+C:\Users\1998m\Desktop\real-estate\ReaLEstate.Extension\obj\Debug\net5.0\ReaLEstate.Extension.dll
+C:\Users\1998m\Desktop\real-estate\ReaLEstate.Extension\obj\Debug\net5.0\ref\ReaLEstate.Extension.dll
+C:\Users\1998m\Desktop\real-estate\ReaLEstate.Extension\obj\Debug\net5.0\ReaLEstate.Extension.pdb
